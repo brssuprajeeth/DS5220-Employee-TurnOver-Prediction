@@ -1,4 +1,4 @@
-# DS5220-Employee-TurnOver-Prediction
+# Employee-TurnOver-Prediction
 
 **Overview**
 
